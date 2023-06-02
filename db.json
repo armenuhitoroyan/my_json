@@ -116,49 +116,5 @@
         ]
       }
     ]
-  },
-  "drones": [
-    {
-      "id": "1",
-      "image_url": "https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/349181264_1673958283117845_5398400158730193638_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=730e14&_nc_ohc=Tdhup8RLqZEAX9sx5qN&_nc_ht=scontent.fevn7-1.fna&oh=00_AfCi2_SDLSBcSAM77mTYFnWsFVDc3Mhm3W8CNOiQnD3vRQ&oe=647F209F"
-      "flight_speed": "fast enough"
-      "price": "200$"
-      "auther": "ՄԻՏ Կրթական կենտրոն"
-    },
-     {
-      "id": "2",
-      "image_url": "https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/350117820_959407491758917_5643846484771093610_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=730e14&_nc_ohc=y0UtftoMEikAX_GYy87&_nc_ht=scontent.fevn7-1.fna&oh=00_AfAzIhM5oyVUeTdXQrbn9yAy6-C-pSqHfNfCBRQ3eT4Tuw&oe=647E4210"
-      "flight_speed": "fast enough"
-      "price": "300$"
-      "auther": "Մելքոնյան Լյովա"
-    },
-    {
-      "id": "3",
-      "image_url": "https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/349931710_262118513057733_2242572431846289686_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=730e14&_nc_ohc=F23FOtDseaQAX-rafjU&_nc_oc=AQm5Onfb1WwhKLktRTJaStv1fwacXYP3nhFRC6Z20T8pfceiW5hpAirI74R1aJx8duE&_nc_ht=scontent.fevn7-1.fna&oh=00_AfACYdP7NYQ5lFVnGOTkUwuH8TwZE3y3wMTD0aO6-hsb1A&oe=647EB05E"
-      "flight_speed": "fast enough"
-      "price": "200$"
-      "auther": "ՄԻՏ Կրթական կենտրոն"
-    },
-    {
-      "id": "4",
-      "image_url": "https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/346831853_1403977053755192_6115544824886373859_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=730e14&_nc_ohc=KKq-IgmQzqUAX_FWO8t&_nc_ht=scontent.fevn7-1.fna&oh=00_AfD8mCsGj0Sb5odnMjLSE5gGLplnJTT64dk4kwxHutkJzA&oe=647EBCA7"
-      "flight_speed": "slow enough"
-      "price": "100$"
-      "auther": "ՄԻՏ Կրթական կենտրոն"
-    },
-    {
-      "id": "5",
-      "image_url": "https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/335416221_181061254664389_2014806731083468889_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=LVlccDDh4AYAX_IQaWJ&_nc_ht=scontent.fevn7-1.fna&oh=00_AfCXKsFLc68ywRJE-dqB4TozmlJBCpnux1N5WcuByc9GDA&oe=647E275F"
-      "flight_speed": "fast enough"
-      "price": "500$"
-      "auther": "ՄԻՏ Կրթական կենտրոն"
-    },
-     {
-      "id": "6",
-      "image_url": "https://scontent.fevn7-1.fna.fbcdn.net/v/t39.30808-6/327897099_891221378579187_5168026175809970190_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=730e14&_nc_ohc=nx1XEr9mdQIAX-iw0i-&_nc_ht=scontent.fevn7-1.fna&oh=00_AfCeiHUsfUmXUVdGxFZuOgogu4WD9h5Udap4OtPeraHNmA&oe=647F82BC"
-      "flight_speed": "fast enough"
-      "price": "350$"
-      "auther": "Մելքոնյան Լյովա"
-    }
-  ]
+  }
 }
